@@ -1,4 +1,4 @@
 
 ## 2026
 - [Spatially Resolved Molecular Heterogeneity in Matched Primary and Metastatic Breast Cancer](https://hoadley-lab.github.io/posters/2026/ryanvl_sabcs.pdf)
-  - Ryan Videgar-Laird
+  - Ryan S. Videgar-Laird | San Antonio Breast Cancer Symposium
